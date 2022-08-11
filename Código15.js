@@ -11,3 +11,5 @@ for (var i = 2; i < 8; i++) {
 
 //Debug
 console.log(fibonacci);
+
+//Créditos á Esse Site: https://www.delftstack.com/pt/howto/javascript/javascript-fibonacci/#:~:text=Para%20gerar%20a%20Sequ%C3%AAncia%20de,sequ%C3%AAncia%20de%20Fibonacci%20em%20JavaScript.
